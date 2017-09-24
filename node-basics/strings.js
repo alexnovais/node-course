@@ -1,5 +1,5 @@
-var firstName = 'Alex';
-var lastName = 'Santos';
+var firstName = 'Andrew';
+var lastName = 'Mead';
 var fullName = firstName + ' ' + lastName;
 
 console.log(fullName);

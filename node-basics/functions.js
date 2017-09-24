@@ -1,7 +1,7 @@
 function add (a, b) {
-    var result = a + b;
+	var result = a + b;
 
-    return result;
+	return result;
 }
 
 var result = add(1, 88);
